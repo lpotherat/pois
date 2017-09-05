@@ -1,0 +1,467 @@
+{
+	"pois":
+	[
+		{
+			"id":"00d6e1a8-2c9d-45ef-906f-a9383fdfa76e",
+			"type":"CINE",
+			"name":"Cinéma Eldorado",
+			"location":{
+				"adress":"21 rue Alfred de Musset",
+				"postalCode":"21000",
+				"city":"Dijon",
+				"position":{
+					"lat":47.314410,
+					"lon":5.048826
+				}
+			}
+		},
+		{
+			"id":"819d8357-f05d-42d8-816b-bac51f587be1",
+			"type":"CINE",
+			"name":"Cinéma Le Darcy",
+			"location":{
+				"adress":"8 place Darcy",
+				"postalCode":"21000",
+				"city":"Dijon",
+				"position":{
+					"lat":47.323694,
+					"lon":5.034958
+				}
+			}
+		},
+		{
+			"id":"e4748bee-bb2a-4f5c-830b-a5d8f340a2ab",
+			"type":"CINE",
+			"name":"Cinéma Olympia",
+			"location":{
+				"adress":"16 Avenue Maréchal Foch",
+				"postalCode":"21000",
+				"city":"Dijon",
+				"position":{
+					"lat":47.323652,
+					"lon":5.030071
+				}
+			}
+		},
+		{
+			"id":"5e2fecf5-ac1f-4c4c-98c5-f8fb651112f9",
+			"type":"CINE",
+			"name":"Cinéma Devosge",
+			"location":{
+				"adress":"16 Avenue Maréchal Foch",
+				"postalCode":"21000",
+				"city":"Dijon",
+				"position":{
+					"lat":47.324492,
+					"lon":5.034658
+				}
+			}
+		},
+		{
+			"id":"9e7dbf28-274b-452a-a6fc-62eddd5abc3d",
+			"type":"REST",
+			"name":"My Wok Darcy",
+			"location":{
+				"adress":"3 Boulevard de Sévigné",
+				"postalCode":"21000",
+				"city":"Dijon",
+				"position":{
+					"lat":47.323118,
+					"lon":5.032744
+				}
+			}
+		},
+		{
+			"id":"c559a3a6-d402-4e70-a813-581d128678c2",
+			"type":"REST",
+			"name":"Central Sushi",
+			"location":{
+				"adress":"21 Place Darcy",
+				"postalCode":"21000",
+				"city":"Dijon",
+				"position":{
+					"lat":47.323369,
+					"lon":5.032020
+				}
+			}
+		},
+		{
+			"id":"8478c5a6-701b-4467-b53e-6c315e7f6be1",
+			"type":"REST",
+			"name":"Ekin Kebab",
+			"location":{
+				"adress":"7 Avenue Maréchal Foch",
+				"postalCode":"21000",
+				"city":"Dijon",
+				"position":{
+					"lat":47.323346,
+					"lon":5.030364
+				}
+			}
+		},
+		{
+			"id":"85fa7d5d-7ed5-4a78-a0e8-586f8e3efcd3",
+			"type":"REST",
+			"name":"Quick",
+			"location":{
+				"adress":"Cour de la Gare",
+				"postalCode":"21000",
+				"city":"Dijon",
+				"position":{
+					"lat":47.322985,
+					"lon":5.028280
+				}
+			}
+		},
+		{
+			"id":"85fa7d5d-7ed5-4a78-a0e8-586f8e3efcd3",
+			"type":"REST",
+			"name":"Quick",
+			"location":{
+				"adress":"Cour de la Gare",
+				"postalCode":"21000",
+				"city":"Dijon",
+				"position":{
+					"lat":47.322985,
+					"lon":5.028280
+				}
+			}
+		},
+		{
+			"id":"f3ca32af-d66a-4c95-ad45-74b09e1a2814",
+			"type":"REST",
+			"name":"Boludo Empanadas",
+			"location":{
+				"adress":"55 Rue Guillaume Tell",
+				"postalCode":"21000",
+				"city":"Dijon",
+				"position":{
+					"lat":47.323772,
+					"lon":5.029330
+				}
+			}
+		},
+		{
+			"id":"61c07dee-7614-40a2-a26f-784629b4d2fa",
+			"type":"REST",
+			"name":"Ritchies Diner",
+			"location":{
+				"adress":"49 Rue Guillaume Tell",
+				"postalCode":"21000",
+				"city":"Dijon",
+				"position":{
+					"lat":47.323972,
+					"lon":5.029270
+				}
+			}
+		},
+		{
+			"id":"da5fd46b-c708-4e78-8452-5652c6b01a19",
+			"type":"REST",
+			"name":"Subway",
+			"location":{
+				"adress":"17 Avenue Maréchal Foch",
+				"postalCode":"21000",
+				"city":"Dijon",
+				"position":{
+					"lat":47.323264,
+					"lon":5.029508
+				}
+			}
+		},
+		{
+			"id":"d2cf3923-517a-4e0b-9dc6-71c85c28f649",
+			"type":"REST",
+			"name":"La Scala",
+			"location":{
+				"adress":"11 Avenue Maréchal Foch",
+				"postalCode":"21000",
+				"city":"Dijon",
+				"position":{
+					"lat":47.323177,
+					"lon":5.030122
+				}
+			}
+		},
+		{
+			"id":"8bb8c9f3-d51c-4650-91e6-58a1b14ba2de",
+			"type":"REST",
+			"name":"L'Essentiel",
+			"location":{
+				"adress":"12 Rue Audra",
+				"postalCode":"21000",
+				"city":"Dijon",
+				"position":{
+					"lat":47.325693,
+					"lon":5.034318
+				}
+			}
+		},
+		{
+			"id":"aa011af1-c8b4-4cca-b786-b66550283404",
+			"type":"REST",
+			"name":"Le Lotus Bleu",
+			"location":{
+				"adress":"20 Rue Devosge",
+				"postalCode":"21000",
+				"city":"Dijon",
+				"position":{
+					"lat":47.325348,
+					"lon":5.035121
+				}
+			}
+		},
+		{
+			"id":"d913efaf-f3f4-455e-8418-7dd24435962c",
+			"type":"REST",
+			"name":"Flunch",
+			"location":{
+				"adress":"24 Boulevard de Brosses",
+				"postalCode":"21000",
+				"city":"Dijon",
+				"position":{
+					"lat":47.324305,
+					"lon":5.035258
+				}
+			}
+		},
+		{
+			"id":"2fef210b-bef4-48cd-b09d-8d27d72af97e",
+			"type":"REST",
+			"name":"Les Jardins de la Cloche",
+			"location":{
+				"adress":"14 Place Darcy",
+				"postalCode":"21000",
+				"city":"Dijon",
+				"position":{
+					"lat":47.324099,
+					"lon":5.033965
+				}
+			}
+		},
+		{
+			"id":"ec7e2090-609d-4c63-a8c7-cf3c6e49bbd0",
+			"type":"REST",
+			"name":"Joker 21",
+			"location":{
+				"adress":"4 Place Darcy",
+				"postalCode":"21000",
+				"city":"Dijon",
+				"position":{
+					"lat":47.323570,
+					"lon":5.034802
+				}
+			}
+		},
+		{
+			"id":"15d34dc2-c43c-49cf-97be-4b66523ec2f1",
+			"type":"REST",
+			"name":"L'Édito",
+			"location":{
+				"adress":"4 Place Darcy",
+				"postalCode":"21000",
+				"city":"Dijon",
+				"position":{
+					"lat":47.323570,
+					"lon":5.034802
+				}
+			}
+		},
+		{
+			"id":"48618929-5ac6-45a6-89aa-f349f9bfa6ce",
+			"type":"REST",
+			"name":"Restaurant de la Porte Guillaume",
+			"location":{
+				"adress":"2 Rue de la Liberté",
+				"postalCode":"21000",
+				"city":"Dijon",
+				"position":{
+					"lat":47.323094,
+					"lon":5.035003
+				}
+			}
+		},
+		{
+			"id":"44528639-923d-4611-890d-08d05280ac2d",
+			"type":"REST",
+			"name":"LULU - Graine d'un monde",
+			"location":{
+				"adress":"12 Rue de la Poste",
+				"postalCode":"21000",
+				"city":"Dijon",
+				"position":{
+					"lat":47.323412,
+					"lon":5.036004
+				}
+			}
+		},
+		{
+			"id":"cb5fd858-7d1a-4c78-9653-2faba60aea52",
+			"type":"REST",
+			"name":"Le Sommatino",
+			"location":{
+				"adress":"5-7 Rue d'Auxonne",
+				"postalCode":"21000",
+				"city":"Dijon",
+				"position":{
+					"lat":47.315894,
+					"lon":5.044936
+				}
+			}
+		},
+		{
+			"id":"56f6e647-93c0-45bc-bc2f-ffb524e4a8f5",
+			"type":"REST",
+			"name":"Restaurant Stéphane Derbord",
+			"location":{
+				"adress":"10 Place du Président Wilson",
+				"postalCode":"21000",
+				"city":"Dijon",
+				"position":{
+					"lat":47.315992,
+					"lon":5.044298
+				}
+			}
+		},
+		{
+			"id":"33ae3c43-adac-4a92-a50e-ef5fa445e3ae",
+			"type":"REST",
+			"name":"Wilson 43",
+			"location":{
+				"adress":"42 Rue Pasteur",
+				"postalCode":"21000",
+				"city":"Dijon",
+				"position":{
+					"lat":47.317325,
+					"lon":5.042945
+				}
+			}
+		},
+		{
+			"id":"7afe1964-d4bd-4492-a6ab-5286ec1686ae",
+			"type":"REST",
+			"name":"Village Mandarin",
+			"location":{
+				"adress":"5 Rue d'Auxonne",
+				"postalCode":"21000",
+				"city":"Dijon",
+				"position":{
+					"lat":47.316149,
+					"lon":5.044989
+				}
+			}
+		},
+		{
+			"id":"2d7788d4-2282-4501-835d-69547ae5d7dd",
+			"type":"REST",
+			"name":"Akatsuki",
+			"location":{
+				"adress":"8 Rue Coupée de Longvic",
+				"postalCode":"21000",
+				"city":"Dijon",
+				"position":{
+					"lat":47.315350,
+					"lon":5.045103
+				}
+			}
+		},
+		{
+			"id":"e4e157d7-bada-4689-9638-9c83304bf7ee",
+			"type":"REST",
+			"name":"Les P'tites Bouchées",
+			"location":{
+				"adress":"19 Rue d'Auxonne",
+				"postalCode":"21000",
+				"city":"Dijon",
+				"position":{
+					"lat":47.315574,
+					"lon":5.045645
+				}
+			}
+		},
+		{
+			"id":"f0f88e42-a134-4422-b8ea-ca0150156374",
+			"type":"REST",
+			"name":"Ekin Kebab",
+			"location":{
+				"adress":"44 Rue d'Auxonne",
+				"postalCode":"21000",
+				"city":"Dijon",
+				"position":{
+					"lat":47.314548,
+					"lon":5.047146
+				}
+			}
+		},
+		{
+			"id":"9afb1d47-d6f4-4870-b877-9272a1e5e557",
+			"type":"REST",
+			"name":"Le Petit Vatel",
+			"location":{
+				"adress":"73 Rue d'Auxonne",
+				"postalCode":"21000",
+				"city":"Dijon",
+				"position":{
+					"lat":47.314535,
+					"lon":5.047754
+				}
+			}
+		},
+		{
+			"id":"7efa2bdc-6cf4-48dd-9812-f70f6675006c",
+			"type":"REST",
+			"name":"Au Framboisier",
+			"location":{
+				"adress":"66 Rue d'Auxonne",
+				"postalCode":"21000",
+				"city":"Dijon",
+				"position":{
+					"lat":47.313788,
+					"lon":5.049073
+				}
+			}
+		},
+		{
+			"id":"86a9bd84-82c3-4851-a774-ff7aae38fc04",
+			"type":"REST",
+			"name":"Mignotte Clémentine",
+			"location":{
+				"adress":"87 Rue d'Auxonne",
+				"postalCode":"21000",
+				"city":"Dijon",
+				"position":{
+					"lat":47.313953,
+					"lon":5.049191
+				}
+			}
+		},
+		{
+			"id":"a7d0dc54-5889-4c76-a819-0e8d8127b107",
+			"type":"REST",
+			"name":"Chez Ben",
+			"location":{
+				"adress":"91 Rue d'Auxonne",
+				"postalCode":"21000",
+				"city":"Dijon",
+				"position":{
+					"lat":47.313926,
+					"lon":5.049478
+				}
+			}
+		},
+		{
+			"id":"053f2bc2-8ca9-4851-b09c-6931bbbfa098",
+			"type":"REST",
+			"name":"La Boîte à Pasta",
+			"location":{
+				"adress":"97 Rue d'Auxonne",
+				"postalCode":"21000",
+				"city":"Dijon",
+				"position":{
+					"lat":47.313699,
+					"lon":5.049814
+				}
+			}
+		}
+	]
+}
